@@ -8,6 +8,6 @@ Ext.application({
     name: 'AgeStoneVideos',
 
     extend: 'AgeStoneVideos.Application',
-    
-    autoCreateViewport: true
+
+    autoCreateViewport: false
 });
